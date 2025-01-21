@@ -1,4 +1,4 @@
 class Main()
 {
-    Debug.Log();
+    Debug.Log("Main Add");
 }
