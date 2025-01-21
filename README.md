@@ -1,21 +1,24 @@
 # TestRepo
 테스트를 테스트합니다
 
-## 팀원 1 
+## 팀원 하나
 
 * 닉네임 : joekun(조장운)
 * 좋아하는 게임 : 젤다의 전설/ 저니/ 모뉴먼츠밸리
 * 좋아하는 영화 : 로마/ 몬스터
-* 좋아하는 것 : 늘어지게 늦잠자기 아 졸리다
-* ![Alt text](https://github.com/joekunbb/TestRepo/issues/3#issue-2800521836)
+* 좋아하는 것 : 늘어지게 늦잠자기 아 졸리다   
+![댕댕이](https://github.com/user-attachments/assets/b43b5e5f-5a42-4ca7-afe0-6cda492dc462)
 
-## 팀원 2
+## 팀원 2222
 
 * 닉네임 : jiwoo(박지우)
 * 좋아하는 게임 : 카이로소프트/ 포켓몬
-* 좋아하는 영화 : 짱구
+* 좋아하는 영화 : 짱구   
+![고라파덕](https://github.com/user-attachments/assets/30e57bf8-8617-4bb5-94b8-71109b798164)
 
-## 팀원 3
+=======
+
+## 팀원 셋
 
 * 이름 : 이호준
 * 좋아하는 게임 : 로스트아크, 리그 오브 레전드   
