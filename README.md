@@ -6,6 +6,8 @@
 * 닉네임 : joekun(조장운)
 * 좋아하는 게임 : 젤다의 전설/ 저니/ 모뉴먼츠밸리
 * 좋아하는 영화 : 로마/ 몬스터
+* 좋아하는 것 : 늘어지게 늦잠자기 아 졸리다
+* ![Alt text](https://github.com/joekunbb/TestRepo/issues/3#issue-2800521836)
 
 ## 팀원 2
 
