@@ -15,7 +15,7 @@
 * 좋아하는 게임 : 카이로소프트/ 포켓몬
 * 좋아하는 영화 : 짱구
 <<<<<<< HEAD
-([text](https://github.com/joekunbb/TestRepo/issues/4#issue-2800522350))
+![고라파덕](https://github.com/joekunbb/TestRepo/issues/4#issue-2800522350)
 
 =======
 =======
