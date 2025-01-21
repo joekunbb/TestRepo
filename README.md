@@ -24,10 +24,8 @@
 * 닉네임 : jiwoo(박지우)
 * 좋아하는 게임 : 카이로소프트/ 포켓몬
 * 좋아하는 영화 : 짱구
-<<<<<<< HEAD
 ![고라파덕](https://github.com/joekunbb/TestRepo/issues/4#issue-2800522350)
 
-=======
 =======
 >>>>>>> f57f8c1a5b931ecc144f5d2adfd32953ea45b481
 
