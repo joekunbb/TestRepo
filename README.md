@@ -20,5 +20,7 @@
 * 닉네임 : jiwoo(박지우)
 * 좋아하는 게임 : 카이로소프트/ 포켓몬
 * 좋아하는 영화 : 짱구
+![Alt text](https://github.com/joekunbb/TestRepo/issues/4#issue-2800522350)
+
 =======
 
