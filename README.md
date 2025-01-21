@@ -7,7 +7,7 @@
 * 좋아하는 게임 : 젤다의 전설/ 저니/ 모뉴먼츠밸리
 * 좋아하는 영화 : 로마/ 몬스터
 * 좋아하는 것 : 늘어지게 늦잠자기 아 졸리다
-* ![댕댕이](![Image](https://github.com/joekunbb/TestRepo/issues/3#issue-2800521836))
+* ![댕댕이](https://github.com/user-attachments/assets/b43b5e5f-5a42-4ca7-afe0-6cda492dc462)
 
 
 
@@ -19,7 +19,7 @@
 
 
 
-## 팀원 둘
+## 팀원 2222
 
 * 닉네임 : jiwoo(박지우)
 * 좋아하는 게임 : 카이로소프트/ 포켓몬
